@@ -4,6 +4,7 @@
 # Visual Studio 2015 database file
 *.VC.db
 
+.vscode
 # Compiled Object files
 *.slo
 *.lo
@@ -75,3 +76,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+#product&material
+Content/KiteDemo/*
+Content/ParagonProps/*
+*.log
